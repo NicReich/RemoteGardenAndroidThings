@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "952627171001",
+    "firebase_url": "https://the-gardens-of-egregore.firebaseio.com",
+    "project_id": "the-gardens-of-egregore",
+    "storage_bucket": "the-gardens-of-egregore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952627171001:android:76b18533a90f387d",
+        "android_client_info": {
+          "package_name": "com.ellipsisnamespace.reichnicholas_gardensofegregore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952627171001-1uqrbajunhvdmami7a076d5tbq5dbb9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFhIWO1cL8-FUN7LnhV2pn7ka42MDFlPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
